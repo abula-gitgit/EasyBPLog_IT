@@ -1,0 +1,27 @@
+{
+  "name": "EasyBPLog - Diario della Pressione Arteriosa",
+  "short_name": "EasyBPLog IT",
+  "description": "Monitoraggio domiciliare della pressione arteriosa conforme alle linee guida ESC/SIIA con tastiera gigante, grafici clinici e privacy sul dispositivo.",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
